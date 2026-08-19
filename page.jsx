@@ -1,4 +1,4 @@
-import FormationEntrepreneurs from "../../../components/FormationEntrepreneurs";
+import FormulaireProduit from "../../../components/FormulaireProduit";
 export default function Page() {
-  return <FormationEntrepreneurs />;
+  return <FormulaireProduit />;
 }
