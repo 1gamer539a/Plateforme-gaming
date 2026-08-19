@@ -1,4 +1,4 @@
-import SalleSurveillance from "../../../components/SalleSurveillance";
+import FormationEntrepreneurs from "../../../components/FormationEntrepreneurs";
 export default function Page() {
-  return <SalleSurveillance />;
+  return <FormationEntrepreneurs />;
 }
