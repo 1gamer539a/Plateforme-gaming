@@ -1,4 +1,4 @@
-import FormulaireProduit from "../../../components/FormulaireProduit";
+import VerificationIdentite from "../../components/VerificationIdentite";
 export default function Page() {
-  return <FormulaireProduit />;
+  return <VerificationIdentite />;
 }
