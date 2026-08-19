@@ -1,4 +1,4 @@
-import HomePage from "../components/HomePage";
+import SalleSurveillance from "../../../components/SalleSurveillance";
 export default function Page() {
-  return <HomePage />;
+  return <SalleSurveillance />;
 }
